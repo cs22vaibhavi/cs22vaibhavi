@@ -2,7 +2,7 @@
 
 # Hi, I'm Vaibhavi 👋  
 
-🎓 Computer Science Student  
+🎓 B.E Engineering Student in Computer Science 
 💻 Passionate about building strong fundamentals and real-world solutions  
 
 ---

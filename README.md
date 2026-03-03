@@ -3,6 +3,7 @@
 # Hi, I'm Vaibhavi 👋  
 
 🎓 B.E Engineering Student in Computer Science 
+
 💻 Passionate about building strong fundamentals and real-world solutions  
 
 ---

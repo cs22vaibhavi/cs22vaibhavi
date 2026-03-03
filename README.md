@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently strengthening my complete technical skill set  
-- 🧠 Focused on Data Structures & Algorithms    
+- 🧠 Focused on coding   
 - 📊 Interested in WEB DEVELOPMENT
 - 💡 Love solving logical and real-world problems  
 
